@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "" -%l "en, *" http://demo.epic-webdesign.com/tf-smart/v3/ -O1 "D:\templates\smart\smart_1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Tue, 22 Jun 2021 19:37:47, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

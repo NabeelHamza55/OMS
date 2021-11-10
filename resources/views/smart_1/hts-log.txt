@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Jun 2021 19:37:47 at http://demo.epic-webdesign.com/tf-smart/v3/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://demo.epic-webdesign.com/tf-smart/v3/ -O1 "D:\templates\smart\smart_1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 40 links scanned, 39 files written (1877190 bytes overall) [1472143 bytes received at 23002 bytes/sec], 572424 bytes transferred using HTTP compression in 15 files, ratio 27%
+(No errors, 0 warnings, 0 messages)
